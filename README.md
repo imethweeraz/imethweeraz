@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🎓 **Software Engineering Student** at Java Institute  
+🎓 **Full-satk Software Engineering** at Birmingham City University
 💻 **Passionate Developer** building innovative solutions  
 🌱 **Always Learning** new technologies and frameworks  
 🎯 **Focused on** clean, efficient, and scalable code  
