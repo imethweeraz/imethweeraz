@@ -2,7 +2,7 @@
 
 # 🌟 Hi there, I'm Imeth Weerasinghe! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Java+Institute+Scholar;Future+Tech+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-stak+Software+Engineering;Birmingham+City+University;Future+Tech+Innovator" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
